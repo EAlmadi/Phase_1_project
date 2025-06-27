@@ -1,4 +1,5 @@
 
+
 Aircraft Analysis Project
 Business Problem
 Your company is expanding into new industries to diversify its investment portfolio. One of the target sectors is aviation, specifically purchasing and operating aircraft for both commercial and private use.
@@ -167,3 +168,7 @@ Always review historical safety data—such as incident counts and destruction r
 
 
 
+=======
+# Phase_1_project
+A project analyzing aircraft incidents to determine which aircraft is the safest and most likely to be used for investment purposes.
+>>>>>>> 50de56c816aec986051313cb243060160204480c
