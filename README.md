@@ -172,3 +172,4 @@ Always review historical safety data—such as incident counts and destruction r
 # Phase_1_project
 A project analyzing aircraft incidents to determine which aircraft is the safest and most likely to be used for investment purposes.
 >>>>>>> 50de56c816aec986051313cb243060160204480c
+Interactive Dashboard-https://public.tableau.com/views/phase1project_17511944478560/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
